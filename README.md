@@ -102,7 +102,6 @@ python packet_loss_simulator.py
    - 发送累积ACK
    - 丢弃乱序数据包
 
-# SR协议工作流程说明已移除
 
 ## 数据包格式
 
